@@ -1,6 +1,5 @@
-# syzygytest
+# welcome to "syzygytest" :>
 
-*github demo*
-**test test test**
+*i'm just generally messing around with code, not much to see here*
 
-## heading
+for now the only thing in here is the "chameleon page." that's about it
