@@ -1,7 +1,7 @@
 body {
   background-color: black;
   transition: background-color 0.5s ease;
-  /* i dont want to give people seizures from flashing colors*/
+  /* i dont want to give people seizures from flashing colors */
 }
 
 h2 {
@@ -16,6 +16,7 @@ p {
   transition: color 0.5s ease;
 }
 
+/* button stuff */
 #changeButton {
   background-color: #000000a3;
   color: #ffffff;
